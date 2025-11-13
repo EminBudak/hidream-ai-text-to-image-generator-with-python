@@ -64,7 +64,7 @@ cp .env.example .env
 This project requires Python 3.8 or higher and is compatible with all operating systems that support Python.
 
 ## 📁 Folder Structure
-
+```
 project-root/
 ├── requirements.txt # Python dependencies
 ├── .env.example # Environment variables template
@@ -73,6 +73,7 @@ project-root/
 ├── wiro_client.py # Wiro API client with polling
 └── examples/
  └── basic.py # Basic usage example
+```
 
 ## 📦 Installation
 
