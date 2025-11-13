@@ -42,6 +42,7 @@ pip install -r requirements.txt
 # Copy environment file and update credentials
 cp .env.example .env
 # Edit .env with your Wiro credentials
+```
 
 ## 📚 Resources
 
