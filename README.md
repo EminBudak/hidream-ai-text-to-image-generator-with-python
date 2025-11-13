@@ -80,18 +80,20 @@ Install required packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 Set up environment variables:
 
 ```bash
 # Copy and update credentials
 cp .env.example .env
+```
 
 Run the project:
 
 ```bash
 python main.py
-
+```
 ## 📚 Inspire Examples
 
 ### Example 1: Futuristic Cyberpunk City
@@ -123,6 +125,7 @@ print("Running HiDream AI I1...")
 print("Parameters:", params)
 result = client.execute(params)
 print("✅ Result:", result)
+```
 
 ### Example 2: Golden Retriever Astronaut
 
@@ -153,7 +156,7 @@ print("Running HiDream AI I1...")
 print("Parameters:", params)
 result = client.execute(params)
 print("✅ Result:", result)
-
+```
 ### Example 3: Fantasy Castle on Floating Island
 
 ```python
@@ -183,6 +186,7 @@ print("Running HiDream AI I1...")
 print("Parameters:", params)
 result = client.execute(params)
 print("✅ Result:", result)
+```
 
 ## 🎬 Sample Output Gallery
 
@@ -226,6 +230,7 @@ print('Parameters:', params)
 
 result = client.execute(params)
 print('✅ Result:', result)
+```
 
 **Console Output:**
 
